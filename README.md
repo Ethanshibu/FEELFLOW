@@ -39,8 +39,7 @@ python app.py
 ```
 The app should now be running on `http://localhost:5000`.
 
-## 📸 Screenshots
-(Add screenshots or GIFs of the app in action here)
+-demo-
 
 ## 📂 Project Structure
 ```sh
